@@ -2907,7 +2907,7 @@ input, select, textarea {
 
 		.split > :nth-child(2n - 1) {
 			padding-right: 2.5em;
-			border-right: solid 1px rgba(255, 255, 255, 0.15);
+			/* border-right: solid 1px rgba(255, 255, 255, 0.15); */
 		}
 
 		.split > :nth-child(2n) {
@@ -3907,3 +3907,41 @@ input, select, textarea {
 			}
 
 		}
+
+
+#four{
+    background-color: #0b9fcc;
+}
+
+#four ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#four li > div{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+@media screen and (min-width: 1280px) {
+	.tech-list--item img {
+		height: 93.5px;
+	}
+}
+
+@media screen and (min-width: 1680px) {
+    .tech-list--item img {
+        height: 118.5px;
+    }
+}
+
+.tech-list--item {
+    padding-right: 2.2em;
+    margin-bottom: 1em;
+    text-align: left;
+    transition: .6s;
+}
