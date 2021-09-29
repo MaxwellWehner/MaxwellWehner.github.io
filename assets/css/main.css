@@ -2315,3 +2315,10 @@ input, select, textarea {
 .MaxFace{
     width: 200px;
 }
+
+.from-left, .from-right{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
