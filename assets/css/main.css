@@ -2322,3 +2322,40 @@ input, select, textarea {
     align-items: center;
     justify-content: center;
 }
+
+.section-display{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.section-display a{
+    margin-left: 10%;
+}
+
+.section-display a{
+    width: 100px;
+}
+
+.technologies{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.techDiv{
+    width: 100%;
+    text-align: center;
+}
+
+.section-display h3{
+    margin-left:10%;
+}
+
+.section-display a > img{
+    max-width: 100%
+}
+
+section{
+    margin-top: 3em
+}
