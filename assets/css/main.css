@@ -2245,7 +2245,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/Mountian-image.jpg");
+		background: url("images/overlay.png"), url("https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F1321369.jpg&sp=1632942938Tb15cebef5913827dd96b389db17a1669d5a3481c236af4f7e4338cd6ab3e4fff");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2255,7 +2255,7 @@ input, select, textarea {
 /* One */
 
 	#one {
-		background: url("images/overlay.png"), url("../../images/one.jpg");
+		background: url("images/overlay.png"), url("https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fwallpaperaccess.com%2Ffull%2F130063.jpg&sp=1632942864T1fae3ad11660690706c2b6a0066e4e9bf182ef08cac318a0a77b00e7527d18e2");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2264,7 +2264,7 @@ input, select, textarea {
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
+		background: url("images/overlay.png"), url("https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F5e%2F01%2F5e%2F5e015ea9af9ff18a29cd1ea78a2edeaf.jpg&sp=1632942721T1c82f4af2b3e00c73ae3a7eaac2d10f9a881e8b59d5217979b888d7659e9cb63");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2357,5 +2357,5 @@ input, select, textarea {
 }
 
 section{
-    margin-top: 3em
+    padding-top: 3em
 }
